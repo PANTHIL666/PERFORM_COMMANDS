@@ -1,4 +1,4 @@
-# PERFORM_COMMANDS
+ls# PERFORM_COMMANDS
 This is my first repos..
 <br>
 i will perform all cammand here..
@@ -14,3 +14,4 @@ git config --list
 clone the code from remote(github) to local(pc or laptop)
 <br>
 git clone <project HTTPS link from github >
+hello git
