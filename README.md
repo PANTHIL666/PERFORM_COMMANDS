@@ -15,3 +15,7 @@ clone the code from remote(github) to local(pc or laptop)
 <br>
 git clone <project HTTPS link from github >
 hello git
+<br>
+git add filename
+<br>
+git commit -m "commant"
