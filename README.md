@@ -10,3 +10,7 @@ git config --global user.name "PANTHIL666"
 git config --global user.email "panthilkankotiya2003@gmail.com" 
 <br>
 git config --list
+<br>
+clone the code from remote(github) to local(pc or laptop)
+<br>
+git clone <project HTTPS link from github >
