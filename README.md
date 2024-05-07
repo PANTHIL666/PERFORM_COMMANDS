@@ -19,3 +19,5 @@ hello git
 git add filename
 <br>
 git commit -m "commant"
+<br>
+git push originn main 
